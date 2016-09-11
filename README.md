@@ -1,2 +1,4 @@
 # Purple-Hippo-Themes
-Information about the Teachable School, themes by Purple Hippo Web Studio.
+Information about the amazing themes for Teachable Schools by Purple Hippo Web Studio.
+
+See [ROADMAP.md](https://github.com/Ellf/Purple-Hippo-Themes/blob/master/ROADMAP.md) for additional information.
